@@ -1,5 +1,6 @@
 ﻿// Copyright (c) .NET Foundation. All rights reserved.
 // Licensed under the Apache License, Version 2.0. See License.txt in the project root for license information.
+// NOTICE: modifications have been made to this file that deviate from aspnet/JsonPatch.
 
 using System.Collections.Generic;
 using Newtonsoft.Json.Serialization;
